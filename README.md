@@ -14,4 +14,4 @@ Flutter uses a tree of widgets to build the UI. When the state changes (e.g., a 
 ## 3. Why Dart?
 Dart is the secret weapon of Flutter because:
 * **JIT (Just In Time) Compilation:** Allows for "Hot Reload" during development, letting us see changes in milliseconds.
-* **AOT (Ahead Of Time) Compilation:** Compiles to native machine code for the final release, making the app run smoothly (60fps) on mobile devices.
+* **AOT (Ahead Of Time) Compilation:** Compiles to native machine code for the final release, making the app run smoothly on mobile devices.
