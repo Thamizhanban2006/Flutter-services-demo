@@ -31,7 +31,3 @@ I used `StreamBuilder` connected to `FirebaseFirestore.instance.collection('task
 
 ## 3. Reflection
 Firebase simplifies the backend by removing the need for a custom server. I didn't have to write any API endpoints or SQL queries. Authentication was handled with just one line of code.
-
-## 4. Screenshots
-[Insert Screenshot of Login Screen]
-[Insert Screenshot of Task List]
